@@ -1,0 +1,5 @@
+How to use?
+1) Run "npm install"
+2) Run "npm start" or "ng serve"
+
+This is an individual project I practiced for Angular framework.
