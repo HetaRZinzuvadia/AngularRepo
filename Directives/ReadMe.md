@@ -1,0 +1,1 @@
+This folder includes the demo sample for creating directives in Angular6. There are two types of directives: structural and attribute directives. We can also create custom directives and bind them into component html files the way we do with normal framework directives.
