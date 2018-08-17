@@ -1,0 +1,14 @@
+<a href="#"
+    class="list-group-item clearfix"
+    (click)="onItemSelected($event)">
+      <div class="pull-left">
+        <h4 class="list-group-item-heading"> {{ recipe._name }} </h4>
+        <p class="list-group-item-text"> {{ recipe._description }} &nbsp;&nbsp; </p>
+      </div>
+      <span>
+        <img
+        [src]="recipe._imagePath"
+        alt="{{recipe._name}}"
+        class="img-responsive">
+      </span>
+    </a>
