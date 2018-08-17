@@ -1,0 +1,1 @@
+This is continuation of v01 code ahead, splitting demo project into components, here I designed code to make communication between components at same level or with ParentComponent which is AppComponent in this case.
