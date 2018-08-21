@@ -1,0 +1,1 @@
+This sample projects is for understanding the concepts of Serivces in Angular framework. Services are very important for reducing repeatition in project. It can perform cross- component communication too.
