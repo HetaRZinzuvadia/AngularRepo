@@ -1,0 +1,1 @@
+This is a sample program for practicing Router module from Angular/Router. The sample code demonstrates setting routes from one component to other, alongwith passing as well as retrieving query parameters and fragments.
